@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1666128343 source:c:\users\pedro_pc\desktop\programa\orientada objeto\entrega6\cartesiano\main.cpp
+	<iostream>
+	"cart.h"
+
+1666128437 source:c:\users\pedro_pc\desktop\programa\orientada objeto\entrega6\cartesiano\cart.cpp
+	<iostream>
+	"cart.h"
+
+1666127981 c:\users\pedro_pc\desktop\programa\orientada objeto\entrega6\cartesiano\cart.h
+

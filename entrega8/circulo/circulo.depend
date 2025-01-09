@@ -1,0 +1,44 @@
+# depslib dependency file v1.0
+1666298756 source:c:\users\aluno\desktop\circulo\cilindro.cpp
+	<iostream>
+	"cilindro.h"
+
+1666298438 source:c:\users\aluno\desktop\circulo\main.cpp
+	<iostream>
+	"cilindro.h"
+
+1666298756 source:c:\users\aluno\desktop\circulo\circulo.cpp
+	<iostream>
+	"circulo.h"
+
+1666298874 c:\users\aluno\desktop\circulo\circulo.h
+
+1666298775 c:\users\aluno\desktop\circulo\cilindro.h
+	"circulo.h"
+
+1666725161 source:c:\users\pedro_pc\desktop\programa\orientada objeto\entrega8\circulo\cilindro.cpp
+	<iostream>
+	"cilindro.h"
+
+1666725146 c:\users\pedro_pc\desktop\programa\orientada objeto\entrega8\circulo\cilindro.h
+	"circulo.h"
+	<iostream>
+
+1666724885 c:\users\pedro_pc\desktop\programa\orientada objeto\entrega8\circulo\circulo.h
+	<iostream>
+
+1666725368 source:c:\users\pedro_pc\desktop\programa\orientada objeto\entrega8\circulo\main.cpp
+	<iostream>
+	"cilindro.h"
+	"cart.h"
+
+1666725386 source:c:\users\pedro_pc\desktop\programa\orientada objeto\entrega8\circulo\circulo.cpp
+	<iostream>
+	"circulo.h"
+
+1666723082 source:c:\users\pedro_pc\desktop\programa\orientada objeto\entrega8\circulo\cart.cpp
+	<iostream>
+	"cart.h"
+
+1666723082 c:\users\pedro_pc\desktop\programa\orientada objeto\entrega8\circulo\cart.h
+

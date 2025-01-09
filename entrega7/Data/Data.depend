@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1666130680 source:c:\users\pedro_pc\desktop\programa\orientada objeto\entrega6\data\main.cpp
+	<iostream>
+	"Data.h"
+
+1666130732 source:c:\users\pedro_pc\desktop\programa\orientada objeto\entrega6\data\data.cpp
+	<iostream>
+	"Data.h"
+
+1666129720 c:\users\pedro_pc\desktop\programa\orientada objeto\entrega6\data\data.h
+	<iostream>
+

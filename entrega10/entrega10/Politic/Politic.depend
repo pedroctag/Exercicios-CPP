@@ -1,0 +1,115 @@
+# depslib dependency file v1.0
+1667241251 source:c:\users\pedro_pc\desktop\programa\orientada objeto\entrega9\politic\governador.cpp
+	<iostream>
+	"governador.h"
+	"politico.h"
+
+1667240863 source:c:\users\pedro_pc\desktop\programa\orientada objeto\entrega9\politic\main.cpp
+	<iostream>
+	"prefeito.h"
+	"governador.h"
+	"presidente.h"
+	"politico.h"
+
+1667241109 c:\users\pedro_pc\desktop\programa\orientada objeto\entrega9\politic\presidente.h
+	"politico.h"
+
+1667240895 c:\users\pedro_pc\desktop\programa\orientada objeto\entrega9\politic\politico.h
+
+1667240895 source:c:\users\pedro_pc\desktop\programa\orientada objeto\entrega9\politic\politico.cpp
+	<iostream>
+	<string.h>
+	"politico.h"
+
+1667241318 source:c:\users\pedro_pc\desktop\programa\orientada objeto\entrega9\politic\prefeito.cpp
+	<iostream>
+	"prefeito.h"
+	"politico.h"
+
+1667241251 source:c:\users\pedro_pc\desktop\programa\orientada objeto\entrega9\politic\presidente.cpp
+	<iostream>
+	"presidente.h"
+	"politico.h"
+
+1667241279 c:\users\pedro_pc\desktop\programa\orientada objeto\entrega9\politic\governador.h
+	"politico.h"
+
+1667241318 c:\users\pedro_pc\desktop\programa\orientada objeto\entrega9\politic\prefeito.h
+	"politico.h"
+
+1667507735 source:c:\users\aluno\desktop\entrega9\politic\governador.cpp
+	<iostream>
+	"governador.h"
+	"politico.h"
+
+1667241279 c:\users\aluno\desktop\entrega9\politic\governador.h
+	"politico.h"
+
+1667507787 c:\users\aluno\desktop\entrega9\politic\politico.h
+
+1667508027 source:c:\users\aluno\desktop\entrega9\politic\main.cpp
+	<iostream>
+	"prefeito.h"
+	"governador.h"
+	"presidente.h"
+	"politico.h"
+
+1667241318 c:\users\aluno\desktop\entrega9\politic\prefeito.h
+	"politico.h"
+
+1667508161 c:\users\aluno\desktop\entrega9\politic\presidente.h
+	"politico.h"
+
+1667507797 source:c:\users\aluno\desktop\entrega9\politic\politico.cpp
+	<iostream>
+	<string.h>
+	"politico.h"
+
+1667241318 source:c:\users\aluno\desktop\entrega9\politic\prefeito.cpp
+	<iostream>
+	"prefeito.h"
+	"politico.h"
+
+1667508161 source:c:\users\aluno\desktop\entrega9\politic\presidente.cpp
+	<iostream>
+	"presidente.h"
+	"politico.h"
+
+1667843966 source:c:\users\pedro_pc\desktop\programa\orientada objeto\entrega10\entrega9\politic\governador.cpp
+	<iostream>
+	"governador.h"
+	"politico.h"
+
+1667843966 c:\users\pedro_pc\desktop\programa\orientada objeto\entrega10\entrega9\politic\governador.h
+	"politico.h"
+
+1667843966 c:\users\pedro_pc\desktop\programa\orientada objeto\entrega10\entrega9\politic\politico.h
+
+1667845627 source:c:\users\pedro_pc\desktop\programa\orientada objeto\entrega10\entrega9\politic\politico.cpp
+	<iostream>
+	<string.h>
+	"politico.h"
+
+1667843966 source:c:\users\pedro_pc\desktop\programa\orientada objeto\entrega10\entrega9\politic\prefeito.cpp
+	<iostream>
+	"prefeito.h"
+	"politico.h"
+
+1667843966 c:\users\pedro_pc\desktop\programa\orientada objeto\entrega10\entrega9\politic\prefeito.h
+	"politico.h"
+
+1667508161 source:c:\users\pedro_pc\desktop\programa\orientada objeto\entrega10\entrega9\politic\presidente.cpp
+	<iostream>
+	"presidente.h"
+	"politico.h"
+
+1667843966 c:\users\pedro_pc\desktop\programa\orientada objeto\entrega10\entrega9\politic\presidente.h
+	"politico.h"
+
+1667845719 source:c:\users\pedro_pc\desktop\programa\orientada objeto\entrega10\entrega9\politic\main.cpp
+	<iostream>
+	"prefeito.h"
+	"governador.h"
+	"presidente.h"
+	"politico.h"
+

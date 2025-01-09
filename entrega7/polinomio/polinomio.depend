@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1665090130 source:c:\users\aluno\desktop\polinomio\main.cpp
+	<iostream>
+	"polinomio.h"
+
+1665090253 source:c:\users\aluno\desktop\polinomio\polinomio.cpp
+	<iostream>
+	"polinomio.h"
+
+1665088907 c:\users\aluno\desktop\polinomio\polinomio.h
+	<iostream>
+

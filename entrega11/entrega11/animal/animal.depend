@@ -1,0 +1,85 @@
+# depslib dependency file v1.0
+1668113302 source:c:\users\aluno\desktop\animal\animal.cpp
+	"animal.h"
+	<string>
+
+1668113117 source:c:\users\aluno\desktop\animal\main.cpp
+	<iostream>
+	<string>
+	"peixe.h"
+	"sapo.h"
+	"cachorro.h"
+
+1668113399 source:c:\users\aluno\desktop\animal\cachorro.cpp
+	"cachorro.h"
+	<iostream>
+	<string>
+
+1668113392 source:c:\users\aluno\desktop\animal\peixe.cpp
+	"peixe.h"
+	<iostream>
+	<string>
+
+1668113408 source:c:\users\aluno\desktop\animal\sapo.cpp
+	"sapo.h"
+	<iostream>
+	<string>
+
+1668113302 c:\users\aluno\desktop\animal\animal.h
+	<string>
+	<iostream>
+
+1668113359 c:\users\aluno\desktop\animal\peixe.h
+	<string>
+	"animal.h"
+
+1668113359 c:\users\aluno\desktop\animal\sapo.h
+	<string>
+	"animal.h"
+
+1668113434 c:\users\aluno\desktop\animal\cachorro.h
+	<string>
+	"animal.h"
+
+1668113302 source:c:\users\pedro_pc\desktop\programa\orientada objeto\entrega11\entrega11\animal\animal.cpp
+	"animal.h"
+	<string>
+
+1668113302 c:\users\pedro_pc\desktop\programa\orientada objeto\entrega11\entrega11\animal\animal.h
+	<string>
+	<iostream>
+
+1668113399 source:c:\users\pedro_pc\desktop\programa\orientada objeto\entrega11\entrega11\animal\cachorro.cpp
+	"cachorro.h"
+	<iostream>
+	<string>
+
+1668113434 c:\users\pedro_pc\desktop\programa\orientada objeto\entrega11\entrega11\animal\cachorro.h
+	<string>
+	"animal.h"
+
+1668113569 source:c:\users\pedro_pc\desktop\programa\orientada objeto\entrega11\entrega11\animal\main.cpp
+	<iostream>
+	<string>
+	"peixe.h"
+	"sapo.h"
+	"cachorro.h"
+
+1668113359 c:\users\pedro_pc\desktop\programa\orientada objeto\entrega11\entrega11\animal\peixe.h
+	<string>
+	"animal.h"
+
+1668113359 c:\users\pedro_pc\desktop\programa\orientada objeto\entrega11\entrega11\animal\sapo.h
+	<string>
+	"animal.h"
+
+1668113392 source:c:\users\pedro_pc\desktop\programa\orientada objeto\entrega11\entrega11\animal\peixe.cpp
+	"peixe.h"
+	<iostream>
+	<string>
+
+1668113408 source:c:\users\pedro_pc\desktop\programa\orientada objeto\entrega11\entrega11\animal\sapo.cpp
+	"sapo.h"
+	<iostream>
+	<string>
+
