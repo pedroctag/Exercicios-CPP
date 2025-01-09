@@ -1,0 +1,92 @@
+# depslib dependency file v1.0
+1584205420 source:c:\users\pedro_pc\desktop\programa\orientada objeto\projeto final\biblio\main.cpp
+	<iostream>
+
+1670447635 source:c:\users\pedro_pc\desktop\nova pasta\projeto biblioteca\main.cpp
+	"Biblioteca.h"
+	"Emprestimo.h"
+	"Item.h"
+	"Usuario.h"
+	"Livro.h"
+	"Monografia.h"
+	"Periodico.h"
+	"UsuarioComum.h"
+	"UsuarioAdministrador.h"
+	<iostream>
+	<string>
+
+1670456223 c:\users\pedro_pc\desktop\nova pasta\projeto biblioteca\biblioteca.h
+	"Emprestimo.h"
+	"Item.h"
+	"Livro.h"
+	"Monografia.h"
+	"Periodico.h"
+	"Usuario.h"
+	"UsuarioAdministrador.h"
+	"UsuarioComum.h"
+	<iostream>
+	<list>
+	<string>
+
+1670395708 c:\users\pedro_pc\desktop\nova pasta\projeto biblioteca\emprestimo.h
+	<iostream>
+	<list>
+	<string>
+	"Biblioteca.h"
+	"Usuario.h"
+	"Item.h"
+
+1670398820 c:\users\pedro_pc\desktop\nova pasta\projeto biblioteca\usuario.h
+	<iostream>
+	<list>
+	<string>
+	"Biblioteca.h"
+	"Emprestimo.h"
+
+1670283606 c:\users\pedro_pc\desktop\nova pasta\projeto biblioteca\item.h
+	<iostream>
+	<list>
+	<string>
+	"Biblioteca.h"
+	"Emprestimo.h"
+
+1670283729 c:\users\pedro_pc\desktop\nova pasta\projeto biblioteca\livro.h
+	<iostream>
+	<list>
+	<string>
+	"Biblioteca.h"
+	"Emprestimo.h"
+	"Usuario.h"
+
+1670283721 c:\users\pedro_pc\desktop\nova pasta\projeto biblioteca\monografia.h
+	<iostream>
+	<list>
+	<string>
+	"Biblioteca.h"
+	"Emprestimo.h"
+	"Usuario.h"
+
+1670283726 c:\users\pedro_pc\desktop\nova pasta\projeto biblioteca\periodico.h
+	<iostream>
+	<list>
+	<string>
+	"Biblioteca.h"
+	"Emprestimo.h"
+	"Usuario.h"
+
+1670225492 c:\users\pedro_pc\desktop\nova pasta\projeto biblioteca\usuarioadministrador.h
+	"Biblioteca.h"
+	"Emprestimo.h"
+	"Usuario.h"
+	<iostream>
+	<list>
+	<string>
+
+1670226997 c:\users\pedro_pc\desktop\nova pasta\projeto biblioteca\usuariocomum.h
+	"Biblioteca.h"
+	"Emprestimo.h"
+	"Usuario.h"
+	<iostream>
+	<list>
+	<string>
+

@@ -1,0 +1,51 @@
+# depslib dependency file v1.0
+1669941686 source:c:\users\pedro_pc\desktop\programa\orientada objeto\projeto final\projeto final v3\main.cpp
+	<iostream>
+	"Biblioteca.h"
+	"usuarios.h"
+	"itens.h"
+	"emprestimos.h"
+
+1670249902 source:c:\users\pedro_pc\desktop\programa\orientada objeto\projeto final\projeto final v3\biblioteca.cpp
+	"Biblioteca.h"
+	"emprestimos.h"
+	<iostream>
+
+1670249349 c:\users\pedro_pc\desktop\programa\orientada objeto\projeto final\projeto final v3\biblioteca.h
+	<list>
+	<string>
+	"emprestimos.h"
+	"usuarios.h"
+	"itens.h"
+
+1669940325 c:\users\pedro_pc\desktop\programa\orientada objeto\projeto final\projeto final v3\usuarios.h
+	<list>
+	<string>
+
+1669938677 source:c:\users\pedro_pc\desktop\programa\orientada objeto\projeto final\projeto final v3\usuarios.cpp
+	"usuarios.h"
+	<iostream>
+
+1669938264 source:c:\users\pedro_pc\desktop\programa\orientada objeto\projeto final\projeto final v3\comum.cpp
+	"comum.h"
+
+1669938276 c:\users\pedro_pc\desktop\programa\orientada objeto\projeto final\projeto final v3\comum.h
+	"usuarios.h"
+
+1669939871 source:c:\users\pedro_pc\desktop\programa\orientada objeto\projeto final\projeto final v3\itens.cpp
+	"itens.h"
+	<iostream>
+
+1670249991 c:\users\pedro_pc\desktop\programa\orientada objeto\projeto final\projeto final v3\itens.h
+	<list>
+	<string>
+
+1670249330 source:c:\users\pedro_pc\desktop\programa\orientada objeto\projeto final\projeto final v3\emprestimos.cpp
+	"emprestimos.h"
+	"usuarios.h"
+	"itens.h"
+
+1670249325 c:\users\pedro_pc\desktop\programa\orientada objeto\projeto final\projeto final v3\emprestimos.h
+	"usuarios.h"
+	"itens.h"
+

@@ -1,0 +1,104 @@
+# depslib dependency file v1.0
+1669933253 source:c:\users\pedro_pc\desktop\programa\orientada objeto\projeto final\projeto final\main.cpp
+	<iostream>
+	"periodico.h"
+	"livro.h"
+	"monografia.h"
+	"administrador.h"
+	"comum.h"
+	"emprestimo.h"
+
+1669932392 c:\users\pedro_pc\desktop\programa\orientada objeto\projeto final\projeto final\biblioteca.h
+	<string>
+	<map>
+
+1669932779 source:c:\users\pedro_pc\desktop\programa\orientada objeto\projeto final\projeto final\biblioteca.cpp
+	<iostream>
+	"biblioteca.h"
+
+1669920532 source:c:\users\pedro_pc\desktop\programa\orientada objeto\projeto final\projeto final\usuario.cpp
+	<iostream>
+	"biblioteca.h"
+	"usuario.h"
+	<iostream>
+	"biblioteca.h"
+	"usuario.h"
+
+1669920504 c:\users\pedro_pc\desktop\programa\orientada objeto\projeto final\projeto final\usuario.h
+	"biblioteca.h"
+	<string>
+	"biblioteca.h"
+	<string>
+
+1669933359 source:c:\users\pedro_pc\desktop\programa\orientada objeto\projeto final\projeto final\item.cpp
+	<iostream>
+	"item.h"
+	"biblioteca.h"
+
+1669933253 c:\users\pedro_pc\desktop\programa\orientada objeto\projeto final\projeto final\item.h
+	"biblioteca.h"
+
+1669933294 source:c:\users\pedro_pc\desktop\programa\orientada objeto\projeto final\projeto final\periodico.cpp
+	<iostream>
+	"item.h"
+	"periodico.h"
+
+1669933253 c:\users\pedro_pc\desktop\programa\orientada objeto\projeto final\projeto final\periodico.h
+	"item.h"
+
+1669933264 source:c:\users\pedro_pc\desktop\programa\orientada objeto\projeto final\projeto final\livro.cpp
+	<iostream>
+	"item.h"
+	"livro.h"
+
+1669933272 c:\users\pedro_pc\desktop\programa\orientada objeto\projeto final\projeto final\livro.h
+
+1669933281 source:c:\users\pedro_pc\desktop\programa\orientada objeto\projeto final\projeto final\monografia.cpp
+	"item.h"
+	"monografia.h"
+	<iostream>
+
+1669933289 c:\users\pedro_pc\desktop\programa\orientada objeto\projeto final\projeto final\monografia.h
+
+1669923099 source:c:\users\pedro_pc\desktop\programa\orientada objeto\projeto final\projeto final\comum.cpp
+	"usuario.h"
+	"comum.h"
+	<iostream>
+	"usuario.h"
+	"comum.h"
+	<iostream>
+
+1669860215 c:\users\pedro_pc\desktop\programa\orientada objeto\projeto final\projeto final\comum.h
+	"usuario.h"
+	"usuario.h"
+
+1669860230 c:\users\pedro_pc\desktop\programa\orientada objeto\projeto final\projeto final\administrador.h
+	"usuario.h"
+	"usuario.h"
+
+1669923099 source:c:\users\pedro_pc\desktop\programa\orientada objeto\projeto final\projeto final\administrador.cpp
+	"usuario.h"
+	"administrador.h"
+	<iostream>
+	"usuario.h"
+	"administrador.h"
+	<iostream>
+
+1669926236 source:c:\users\pedro_pc\desktop\programa\orientada objeto\projeto final\projeto final\emprestimo.cpp
+	"emprestimo.h"
+	"emprestimo.h"
+
+1669926108 c:\users\pedro_pc\desktop\programa\orientada objeto\projeto final\projeto final\emprestimo.h
+	<iostream>
+	"periodico.h"
+	"livro.h"
+	"monografia.h"
+	"administrador.h"
+	"comum.h"
+	<iostream>
+	"periodico.h"
+	"livro.h"
+	"monografia.h"
+	"administrador.h"
+	"comum.h"
+
