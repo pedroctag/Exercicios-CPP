@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1664912320 source:c:\users\pedro_pc\desktop\programa\orientada objeto\entrega6\array\main.cpp
+	<iostream>
+	"Array.h"
+
+1664912543 c:\users\pedro_pc\desktop\programa\orientada objeto\entrega6\array\array.h
+	<iostream>
+

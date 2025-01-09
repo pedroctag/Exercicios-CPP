@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1662400910 source:c:\users\pedro_pc\desktop\programa\orientada objeto\entrega 3\cfracao.cpp
+	"CFracao.h"
+	<iostream>
+
+1662400910 c:\users\pedro_pc\desktop\programa\orientada objeto\entrega 3\cfracao.h
+
+1662405164 source:c:\users\pedro_pc\desktop\programa\orientada objeto\entrega 3\main.cpp
+	<iostream>
+	"CFracao.h"
+
+1662400910 source:c:\users\pedro_pc\desktop\programa\orientada objeto\entrega2\programa_doc\cfracao.cpp
+	"CFracao.h"
+	<iostream>
+
+1662400910 c:\users\pedro_pc\desktop\programa\orientada objeto\entrega2\programa_doc\cfracao.h
+

@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1664311474 source:c:\users\pedro_pc\desktop\programa\orientada objeto\entrega3\entrega5\retangulo.cpp
+	<iostream>
+	"retangulo.h"
+
+1664312094 c:\users\pedro_pc\desktop\programa\orientada objeto\entrega3\entrega5\retangulo.h
+
+1664311474 source:c:\users\pedro_pc\desktop\programa\orientada objeto\entrega3\entrega5\retangulofriend.cpp
+	"retangulofriend.h"
+	"retangulo.h"
+
+1664311474 c:\users\pedro_pc\desktop\programa\orientada objeto\entrega3\entrega5\retangulofriend.h
+
+1664311762 source:c:\users\pedro_pc\desktop\programa\orientada objeto\entrega3\entrega5\main.cpp
+	<iostream>
+	"retangulo.h"
+	"retangulofriend.h"
+

@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1662053969 source:c:\users\aluno\desktop\ret\retangulo.cpp
+	<iostream>
+	"retangulo.h"
+
+1662053822 c:\users\aluno\desktop\ret\retangulo.h
+
+1662053761 source:c:\users\aluno\desktop\ret\main.cpp
+	<iostream>
+	"retangulo.h"
+
+1662053761 source:c:\users\pedro_pc\desktop\programa\orientada objeto\entrega2\ret\main.cpp
+	<iostream>
+	"retangulo.h"
+
+1662053822 c:\users\pedro_pc\desktop\programa\orientada objeto\entrega2\ret\retangulo.h
+
+1662053969 source:c:\users\pedro_pc\desktop\programa\orientada objeto\entrega2\ret\retangulo.cpp
+	<iostream>
+	"retangulo.h"
+

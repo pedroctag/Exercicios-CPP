@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1663158301 source:c:\users\pedro_pc\desktop\programa\orientada objeto\entrega3\exer3\main.cpp
+	<iostream>
+	"Ret.h"
+
+1663159434 c:\users\pedro_pc\desktop\programa\orientada objeto\entrega3\exer3\ret.h
+
+1663159085 source:c:\users\pedro_pc\desktop\programa\orientada objeto\entrega3\exer3\ret.cpp
+	<iostream>
+	<math.h>
+	"Ret.h"
+

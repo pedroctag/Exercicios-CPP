@@ -1,0 +1,33 @@
+# depslib dependency file v1.0
+1663704476 source:c:\users\pedro_pc\desktop\programa\orientada objeto\entrega3\comp\comp.cpp
+	<iostream>
+	"comp.h"
+
+1663703387 c:\users\pedro_pc\desktop\programa\orientada objeto\entrega3\comp\comp.h
+
+1663704794 source:c:\users\pedro_pc\desktop\programa\orientada objeto\entrega3\comp\main.cpp
+	<iostream>
+	"comp.h"
+
+1664482962 source:c:\users\aluno\desktop\entrega4\comp\main.cpp
+	<iostream>
+	"comp.h"
+
+1664484622 c:\users\aluno\desktop\entrega4\comp\comp.h
+	<iostream>
+
+1664483144 source:c:\users\aluno\desktop\entrega4\comp\complexofriend.cpp
+	<iostream>
+
+1664482962 source:c:\users\pedro_pc\desktop\programa\orientada objeto\entrega6\entrega4\comp\main.cpp
+	<iostream>
+	"comp.h"
+
+1664932658 c:\users\pedro_pc\desktop\programa\orientada objeto\entrega6\entrega4\comp\comp.h
+	<iostream>
+
+1664932809 source:c:\users\pedro_pc\desktop\programa\orientada objeto\entrega6\entrega4\comp\comp.cpp
+	<iostream>
+	<iomanip>
+	"comp.h"
+

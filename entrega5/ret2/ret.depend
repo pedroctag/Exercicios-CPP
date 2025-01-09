@@ -1,0 +1,55 @@
+# depslib dependency file v1.0
+1662055444 source:c:\users\aluno\desktop\ret\retangulo.cpp
+	<iostream>
+	"retangulo.h"
+
+1662053822 c:\users\aluno\desktop\ret\retangulo.h
+
+1662055444 source:c:\users\aluno\desktop\ret\main.cpp
+	<iostream>
+	"retangulo.h"
+
+1662128509 source:c:\users\pedro_pc\desktop\programa\orientada objeto\entrega2\ret2\retangulo.cpp
+	<iostream>
+	"retangulo.h"
+
+1662128983 c:\users\pedro_pc\desktop\programa\orientada objeto\entrega2\ret2\retangulo.h
+
+1662134296 source:c:\users\pedro_pc\desktop\programa\orientada objeto\entrega2\ret2\main.cpp
+	<iostream>
+	"retangulo.h"
+
+1663869012 source:c:\users\aluno\desktop\entrega2\ret2\main.cpp
+	<iostream>
+	"retangulo.h"
+	"retangulofriend.h"
+
+1663869128 c:\users\aluno\desktop\entrega2\ret2\retangulo.h
+
+1663868401 source:c:\users\aluno\desktop\entrega2\ret2\retangulo.cpp
+	<iostream>
+	"retangulo.h"
+
+1663867012 source:c:\users\aluno\desktop\entrega2\ret2\retangulofriend.cpp
+	"retangulofriend.h"
+	"retangulo.h"
+
+1663867012 c:\users\aluno\desktop\entrega2\ret2\retangulofriend.h
+
+1664321090 source:c:\users\pedro_pc\desktop\programa\orientada objeto\entrega5\ret2\main.cpp
+	<iostream>
+	"retangulo.h"
+	"retangulofriend.h"
+
+1664319643 c:\users\pedro_pc\desktop\programa\orientada objeto\entrega5\ret2\retangulo.h
+
+1663867012 c:\users\pedro_pc\desktop\programa\orientada objeto\entrega5\ret2\retangulofriend.h
+
+1664320881 source:c:\users\pedro_pc\desktop\programa\orientada objeto\entrega5\ret2\retangulo.cpp
+	<iostream>
+	"retangulo.h"
+
+1663867012 source:c:\users\pedro_pc\desktop\programa\orientada objeto\entrega5\ret2\retangulofriend.cpp
+	"retangulofriend.h"
+	"retangulo.h"
+
